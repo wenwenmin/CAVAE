@@ -8,7 +8,7 @@ In this study, we propose a Multimodal Co-Attention-based VAE (CAVAE) deep learn
 
 ## Dataset
 All the dataset, you can check ./data/Readme.md.
-For ./data file, when you download from Zenodo(\url{https://zenodo.org/records/13150316}), you can see eight file of cancer dataset, all the dataset had been split into three document: train/valid/test.
+For ./data file, when you download from Zenodo(https://zenodo.org/records/13150316), you can see eight file of cancer dataset, all the dataset had been split into three document: train/valid/test.
 
 ## Installatioin
 
